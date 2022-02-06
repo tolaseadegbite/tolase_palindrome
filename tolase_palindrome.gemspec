@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["tolasekelvin@gmail.com"]
 
   spec.summary       = %q{Palindrome detector}
-  spec.description   = %q{Learn Enough Ruby Palindrome Detection}
+  spec.description   = %q{Learn Enough Ruby Palindrome Detector}
   spec.homepage      = "https://github.com/tolaseadegbite/tolase_palindrome"
   spec.required_ruby_version = ">= 2.4.0"
 

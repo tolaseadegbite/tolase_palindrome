@@ -9,15 +9,6 @@ module TolasePalindrome
         processed_content == processed_content.reverse
     end
 
-    #   def letters
-    #       self.chars.select{ |s| s.match(/[a-zA-Z]/) }.join
-    #   end
-
-    # Makes the phrase louder
-    # def louder
-    #     self.upcase
-    # end
-
     private
 
         # Returns content for palindrome testing
